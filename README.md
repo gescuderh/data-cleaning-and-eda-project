@@ -58,6 +58,16 @@ signup_date: Fecha de registro.
    jupyter notebook notebooks/data_cleaning_and_eda.ipynb
    ```
 
+## Limpieza de los datos
+
+Se han identificado las siguientes irregularidades en el dataset original (messy-dataset.csv)
+
+1. Registros Null en las columnas "age" y "num_purchases" y datatype erroneo.
+2. Valores atípicos ("-99999") en columna "income".
+3. Valores inconsistentes ("Unknown") en columna "city".
+4. Valores inconsistentes ("MAYBE") en columna "has_children".
+
+## EDA
 
 
 
