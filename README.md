@@ -72,83 +72,83 @@ Se han identificado las siguientes irregularidades en el dataset original (messy
 
 A continuación se muestran los gráficos generados durante el análisis, junto con una breve descripción de cada uno.
 
-# Análisis Exploratorio de Datos (EDA)
+## Análisis Exploratorio de Datos (EDA)
 
-## 1. Distribución de la Edad
+### 1. Distribución de la Edad
 
-![Distribución de la Edad](images/charts/distr_age.png)
+![Distribución de la Edad](charts/distr_age.png)
 
 **Descripción**: Este gráfico muestra la distribución de las edades en el dataset. Podemos observar que la mayoría de los registros se encuentran en el rango de 30 a 50 años.
 
-## 2. Distribución de Ingresos
+### 2. Distribución de Ingresos
 
-![Distribución de Ingresos](images/charts/distr_income.png)
+![Distribución de Ingresos](charts/distr_income.png)
 
 **Descripción**: Este gráfico muestra la distribución de los ingresos en el dataset. La distribución parece ser sesgada hacia los ingresos más bajos.
 
-## 3. Distribución del Número de Compras
+### 3. Distribución del Número de Compras
 
-![Distribución del Número de Compras](images/charts/distr_numpurchases.png)
+![Distribución del Número de Compras](charts/distr_numpurchases.png)
 
 **Descripción**: El gráfico presenta la distribución del número de compras realizadas. La mayoría de los usuarios realizan un número bajo de compras.
 
-## 4. Boxplot de Ingresos
+### 4. Boxplot de Ingresos
 
-![Boxplot de Ingresos](images/charts/boxplot_income.png)
+![Boxplot de Ingresos](charts/boxplot_income.png)
 
 **Descripción**: Este boxplot muestra la variabilidad de los ingresos en el dataset, destacando los valores atípicos y la dispersión de los datos.
 
-## 5. Boxplot de Ingresos por Número de Hijos
+### 5. Boxplot de Ingresos por Número de Hijos
 
-![Boxplot de Ingresos por Número de Hijos](images/charts/boxplot_incomebychildren.png)
+![Boxplot de Ingresos por Número de Hijos](charts/boxplot_incomebychildren.png)
 
 **Descripción**: El boxplot muestra cómo varían los ingresos en función del número de hijos que tiene cada usuario. Se observa una diferencia notable entre los grupos.
 
-## 6. Boxplot del Número de Compras
+### 6. Boxplot del Número de Compras
 
-![Boxplot del Número de Compras](images/charts/boxplot_numpurchases.png)
+![Boxplot del Número de Compras](charts/boxplot_numpurchases.png)
 
 **Descripción**: Este gráfico muestra la variabilidad en el número de compras realizadas por los usuarios, incluyendo los valores atípicos.
 
-## 7. Heatmap de Correlación
+### 7. Heatmap de Correlación
 
-![Heatmap de Correlación](images/charts/heatmap.png)
+![Heatmap de Correlación](charts/heatmap.png)
 
 **Descripción**: El heatmap muestra las correlaciones entre diferentes variables numéricas en el dataset. Se pueden identificar relaciones significativas entre algunas variables.
 
-## 8. Heatmap de Valores Perdidos
+### 8. Heatmap de Valores Perdidos
 
-![Heatmap de Valores Perdidos](images/charts/heatmap_missingvalues.png)
+![Heatmap de Valores Perdidos](charts/heatmap_missingvalues.png)
 
 **Descripción**: Este heatmap muestra la distribución de valores faltantes en el dataset. Ayuda a identificar patrones en los datos ausentes.
 
-## 9. Ingresos por Ciudad
+### 9. Ingresos por Ciudad
 
-![Ingresos por Ciudad](images/charts/plot_city.png)
+![Ingresos por Ciudad](charts/plot_city.png)
 
 **Descripción**: El gráfico muestra los ingresos promedio por ciudad. Se observa que la ciudad de Los Ángeles tiene el ingreso promedio más alto.
 
-## 10. Número de Compras por Estado Civil
+### 10. Número de Compras por Estado Civil
 
-![Número de Compras por Estado Civil](images/charts/plot_haschildren.png)
+![Número de Compras por Estado Civil](charts/plot_haschildren.png)
 
 **Descripción**: Este gráfico ilustra el número de compras realizadas en función de si el usuario tiene hijos o no. Los usuarios con hijos tienden a realizar más compras.
 
-## 11. Compras a lo Largo del Tiempo
+### 11. Compras a lo Largo del Tiempo
 
-![Compras a lo Largo del Tiempo](images/charts/plot_purchasesOtime.png)
+![Compras a lo Largo del Tiempo](charts/plot_purchasesOtime.png)
 
 **Descripción**: El gráfico muestra cómo varía el número de compras realizadas a lo largo del tiempo. Se pueden observar tendencias y patrones estacionales.
 
-## 12. Inscripciones por Mes
+### 12. Inscripciones por Mes
 
-![Inscripciones por Mes](images/charts/plot_signupsbymonth.png)
+![Inscripciones por Mes](charts/plot_signupsbymonth.png)
 
 **Descripción**: Este gráfico muestra el número de inscripciones por mes. Se observa una tendencia estacional en las inscripciones a lo largo del año.
 
-## 13. Relación entre Edad e Ingreso
+### 13. Relación entre Edad e Ingreso
 
-![Relación entre Edad e Ingreso](images/charts/scatter_ageIncome.png)
+![Relación entre Edad e Ingreso](charts/scatter_ageIncome.png)
 
 **Descripción**: El gráfico de dispersión muestra la relación entre la edad y los ingresos. Se puede observar si hay alguna correlación entre estas dos variables.
 
