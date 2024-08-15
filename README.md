@@ -72,8 +72,6 @@ Se han identificado las siguientes irregularidades en el dataset original (messy
 
 A continuación se muestran los gráficos generados durante el análisis, junto con una breve descripción de cada uno.
 
-## Análisis Exploratorio de Datos (EDA)
-
 ### 1. Distribución de la Edad
 
 ![Distribución de la Edad](charts/distr_age.png)
