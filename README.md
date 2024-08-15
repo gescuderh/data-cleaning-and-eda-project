@@ -13,14 +13,17 @@ Este proyecto incluye la limpieza y el análisis exploratorio de datos (EDA) de 
    ```bash
    git clone https://github.com/gescuderh/data-cleaning-and-eda-project.git
 
-2. Navega al directorio del proyecto
-cd data-cleaning-and-eda-project
+2. Navega al directorio del proyecto:
+   ```bash
+   cd data-cleaning-and-eda-project
 
-3. Instala las dependencias:
-pip install -r requirements.txt
+4. Instala las dependencias:
+   ```bash
+   pip install -r requirements.txt
 
-4. Ejecuta el notebook:
-jupyter notebook notebooks/data_cleaning_and_eda.ipynb
+6. Ejecuta el notebook:
+   ```bash
+   jupyter notebook notebooks/data_cleaning_and_eda.ipynb
 
 ## Descripción del Dataset
 
