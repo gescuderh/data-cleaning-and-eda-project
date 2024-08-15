@@ -36,6 +36,7 @@ signup_date: Fecha de registro.
    cd data-cleaning-and-eda-project
 
 4. Instala las dependencias:
+
    Crea un archivo `requirements.txt` para listar las dependencias del proyecto:
 
    ```text
