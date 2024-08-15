@@ -18,6 +18,19 @@ Este proyecto incluye la limpieza y el análisis exploratorio de datos (EDA) de 
    cd data-cleaning-and-eda-project
 
 4. Instala las dependencias:
+   Crea un archivo `requirements.txt` para listar las dependencias del proyecto:
+
+```text
+jupyter
+numpy
+pandas 
+os
+seaborn
+matplotlib.pyplot
+missingno
+warnings
+````
+   
    ```bash
    pip install -r requirements.txt
 
@@ -46,12 +59,6 @@ signup_date: Fecha de registro.
 
 #### 2.2. **requirements.txt**
 
-Crea un archivo `requirements.txt` para listar las dependencias del proyecto:
 
-```text
-pandas
-numpy
-matplotlib
-seaborn
-jupyter
+
 
