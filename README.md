@@ -68,7 +68,33 @@ Se han identificado las siguientes irregularidades en el dataset original (messy
 3. Valores inconsistentes ("Unknown") en columna "city".
 4. Valores inconsistentes ("MAYBE") en columna "has_children".
 
-## EDA
+## Análisis Exploratorio de Datos (EDA)
+
+A continuación se muestran los gráficos generados durante el análisis, junto con una breve descripción de cada uno.
+
+# 1. Distribución de la Edad
+
+![Distribución de la Edad](charts/age_distribution.png)
+
+**Descripción**: Este gráfico muestra la distribución de las edades en el dataset. Podemos observar que la mayoría de los registros se encuentran en el rango de 30 a 50 años.
+
+# 2. Ingresos por Ciudad
+
+![Ingresos por Ciudad](charts/income_by_city.png)
+
+**Descripción**: El gráfico muestra los ingresos promedio por ciudad. Se observa que la ciudad de Los Ángeles tiene un ingreso promedio más alto en comparación con Phoenix y Houston.
+
+# 3. Número de Compras por Edad
+
+![Número de Compras por Edad](charts/purchases_by_age.png)
+
+**Descripción**: Este gráfico muestra la relación entre la edad y el número de compras realizadas. Los datos sugieren que los clientes más jóvenes tienden a hacer más compras.
+
+## Conclusiones
+
+- La mayoría de los registros tienen edades entre 30 y 50 años.
+- Los Ángeles tiene los ingresos promedio más altos entre las ciudades analizadas.
+- Los clientes más jóvenes parecen hacer más compras.
 
 
 
