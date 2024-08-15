@@ -153,8 +153,17 @@ A continuación se muestran los gráficos generados durante el análisis, junto 
 ## Conclusiones
 
 - La mayoría de los registros tienen edades entre 30 y 50 años.
-- Los Ángeles tiene los ingresos promedio más altos entre las ciudades analizadas.
-- Los clientes más jóvenes parecen hacer más compras.
+- Los ingresos predominantes entre nuestros clientes se situan entre los 40.000 y 60.000, teniendo un mayor número de clientes cuyos ingresos se sitúan entre los 50.000 y 60.000.
+- La mayoría de usuarios realizan un número bajo de compras, por debajo de 8.
+- Tenemos un usuario de edad avanzada cuyos ingresos son atípicos respecto al resto de clientes.
+- La ciudad de Phoenix concentra el mayor número de clientes de nuestra tienda.
+- Los clientes con hijos compran un poco más que los que no tienen hijos.
+- No parece existir una correlación entre la edad y los ingresos en nuestros clientes, observamos clientes en todos los rangos de edad con ingresos bajos, medios y altos.
+- El número de compras ha decrecido desde mayo, mes con mayores compras, mientras que setiembre registro el peor dato de compras del año.
+- El número de registros en nuestra tienda coincide en cantidad con el mes de mayor y de menor venta.
+- Observamos que los clientes con mayor poder adquisitivo suelen tener hijos.
+- La mayoría de las correlaciones del heatmap de correlaciones son muy bajas, lo que sugiere que en este conjunto de datos las variables no están fuertemente correlacionadas entre sí.
+- No se observan valores anómalos o perdidos tras la limpieza del dataset.
 
 
 
