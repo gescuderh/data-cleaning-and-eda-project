@@ -33,6 +33,7 @@ warnings
    
    ```bash
    pip install -r requirements.txt
+   ```
 
 6. Ejecuta el notebook:
    ```bash
@@ -55,10 +56,6 @@ has_children: Indicador de si tiene hijos.
 num_purchases: Número de compras realizadas.
 
 signup_date: Fecha de registro.
-
-
-#### 2.2. **requirements.txt**
-
 
 
 
