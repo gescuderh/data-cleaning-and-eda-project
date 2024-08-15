@@ -120,11 +120,11 @@ A continuación se muestran los gráficos generados durante el análisis, junto 
 
 **Descripción**: Este heatmap muestra la distribución de valores faltantes en el dataset. Ayuda a identificar patrones en los datos ausentes.
 
-### 9. Ingresos por Ciudad
+### 9. Clientes por ciudad
 
-![Ingresos por Ciudad](charts/plot_city.png)
+![Clientes por Ciudad](charts/plot_city.png)
 
-**Descripción**: El gráfico muestra los ingresos promedio por ciudad. Se observa que la ciudad de Los Ángeles tiene el ingreso promedio más alto.
+**Descripción**: El gráfico muestra la cantidad de clientes por ciudad. Se observa que la ciudad de Phoenix tiene el mayor número de clientes.
 
 ### 10. Número de Compras por Estado Civil
 
