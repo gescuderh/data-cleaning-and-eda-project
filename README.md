@@ -126,11 +126,11 @@ A continuación se muestran los gráficos generados durante el análisis, junto 
 
 **Descripción**: El gráfico muestra la cantidad de clientes por ciudad. Se observa que la ciudad de Phoenix tiene el mayor número de clientes.
 
-### 10. Número de Compras por Estado Civil
+### 10. Proporción de clientes con y sin hijos
 
-![Número de Compras por Estado Civil](charts/plot_haschildren.png)
+![Proporción clientes con/sin hijos](charts/plot_haschildren.png)
 
-**Descripción**: Este gráfico ilustra el número de compras realizadas en función de si el usuario tiene hijos o no. Los usuarios con hijos tienden a realizar más compras.
+**Descripción**: Este gráfico ilustra la proporción de clientes con o sin hijos. Los clientes con hijos compran más.
 
 ### 11. Compras a lo Largo del Tiempo
 
