@@ -8,37 +8,6 @@ Este proyecto incluye la limpieza y el análisis exploratorio de datos (EDA) de 
 - Realizar un análisis exploratorio para identificar patrones.
 - Crear visualizaciones para comunicar hallazgos clave.
 
-## Cómo Ejecutar el Proyecto
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/gescuderh/data-cleaning-and-eda-project.git
-
-2. Navega al directorio del proyecto:
-   ```bash
-   cd data-cleaning-and-eda-project
-
-4. Instala las dependencias:
-   Crea un archivo `requirements.txt` para listar las dependencias del proyecto:
-
-```text
-jupyter
-numpy
-pandas 
-os
-seaborn
-matplotlib.pyplot
-missingno
-warnings
-````
-   
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-6. Ejecuta el notebook:
-   ```bash
-   jupyter notebook notebooks/data_cleaning_and_eda.ipynb
-
 ## Descripción del Dataset
 
 id: Identificador único del registro.
@@ -56,6 +25,39 @@ has_children: Indicador de si tiene hijos.
 num_purchases: Número de compras realizadas.
 
 signup_date: Fecha de registro.
+
+## Cómo Ejecutar el Proyecto
+1. Clona el repositorio:
+   ```bash
+   git clone https://github.com/gescuderh/data-cleaning-and-eda-project.git
+
+2. Navega al directorio del proyecto:
+   ```bash
+   cd data-cleaning-and-eda-project
+
+4. Instala las dependencias:
+   Crea un archivo `requirements.txt` para listar las dependencias del proyecto:
+
+   ```text
+   jupyter
+   numpy
+   pandas 
+   os
+   seaborn
+   matplotlib.pyplot
+   missingno
+   warnings
+   ````
+   
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+6. Ejecuta el notebook:
+   ```bash
+   jupyter notebook notebooks/data_cleaning_and_eda.ipynb
+   ```
+
 
 
 
